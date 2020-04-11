@@ -10,3 +10,4 @@ download it as extract it as shown above
 ![](incubation_times.png)
 
 #### The incubation mean is about: 10.983 days
+##### most of this work is based on a youtube video of sentdex channel https://www.youtube.com/watch?v=S6GVXk6kbcs
