@@ -8,3 +8,5 @@ download it as extract it as shown above
 ### incubation times mean histgram
 
 ![](incubation_times.png)
+
+#### The incubation mean is about: 10.983 days
